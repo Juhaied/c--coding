@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593868779 source:c:\users\asus\documents\stringidentitychecker\main.cpp
+	<iostream>
+	<string>
+

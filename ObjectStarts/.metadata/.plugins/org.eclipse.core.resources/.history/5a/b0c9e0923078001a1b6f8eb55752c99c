@@ -1,0 +1,32 @@
+package task;
+
+public class Test {
+
+	public static void main(String[] args) {
+		//Figure f1 = new Figure(); this is illegal now
+		
+		Rectangle r1 = new Rectangle(5,9);
+		Triangle t1 = new Triangle (10,5);
+		
+		Figure f1;
+		
+		f1 = r1;
+		
+		System.out.println("area is = "+f1.area());
+		
+		f1 = t1;
+		
+		System.out.println("area is = "+f1.area());
+		
+		System.out.println("area is = "+t1.area());
+		
+		Figure f2 =  new Rectangle(5,6);
+		
+		System.out.println(f2.area());
+		
+		Figure f3 = new Triangle(3,3);
+		System.out.println(f3.area());
+
+	}
+
+}

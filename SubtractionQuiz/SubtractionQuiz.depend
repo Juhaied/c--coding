@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592481449 source:c:\users\asus\documents\subtractionquiz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

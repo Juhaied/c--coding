@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592484284 source:c:\users\asus\documents\lottery\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

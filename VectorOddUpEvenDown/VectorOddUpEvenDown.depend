@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593861766 source:c:\users\asus\documents\vectoroddupevendown\main.cpp
+	<iostream>
+	<vector>
+

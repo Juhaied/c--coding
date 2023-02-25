@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593855681 source:c:\users\asus\documents\stringrepeating\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

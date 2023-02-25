@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593671553 source:c:\users\asus\documents\stringcompare\main.cpp
+	<iostream>
+	<string>
+

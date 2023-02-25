@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593856900 source:c:\users\asus\documents\vectorevennumbergenerate\main.cpp
+	<iostream>
+	<vector>
+

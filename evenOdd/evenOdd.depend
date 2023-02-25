@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589304284 source:c:\users\asus\documents\evenodd\main.c
+	<stdio.h>
+	<stdlib.h>
+

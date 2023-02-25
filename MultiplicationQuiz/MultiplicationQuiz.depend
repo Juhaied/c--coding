@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592490700 source:c:\users\asus\documents\multiplicationquiz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

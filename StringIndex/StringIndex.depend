@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593852165 source:c:\users\asus\documents\stringindex\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

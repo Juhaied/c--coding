@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593864871 source:c:\users\asus\documents\stringdoublelettercheck\main.cpp
+	<iostream>
+	<string>
+

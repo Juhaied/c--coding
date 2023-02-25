@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\Asus\Documents\BookProgram\.metadata\.plugins\org.eclipse.jdt.core
+953478887.index
+3801945034.index
+3807938197.index
+158344928.index
+29260854.index
+602088279.index
+1248545562.index
+206155343.index

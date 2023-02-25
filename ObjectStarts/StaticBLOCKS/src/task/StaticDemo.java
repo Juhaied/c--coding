@@ -1,0 +1,11 @@
+package task;
+
+public class StaticDemo {
+	static int a= 42;
+	static int b = 99;
+
+	static void callme() {
+		System.out.println("LOVE YOU NEEHA");
+		System.out.println("a  = "+a);
+	}
+}

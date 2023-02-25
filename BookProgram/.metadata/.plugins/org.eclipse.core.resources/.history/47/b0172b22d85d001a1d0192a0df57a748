@@ -1,0 +1,22 @@
+package zulkarninevaia;
+
+public class Multiplicity {
+
+	public static void main(String[] args) {
+		int a = 6;
+		int rslt = getMul(a);
+		int rslt2 = getMul(a);
+		System.out.println(rslt);
+		
+		System.out.println(rslt2);
+	}
+	public static int getMul(int k) {
+		k = k* 100;
+		return k;
+	}
+	public static int getDiv(int c) {
+		c = c/ 2;
+		return c;
+	}
+	
+}

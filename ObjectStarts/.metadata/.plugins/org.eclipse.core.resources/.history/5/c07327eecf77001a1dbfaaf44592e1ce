@@ -1,0 +1,15 @@
+package task;
+
+public abstract class Task {
+
+	public static void main(String[] args) {
+		TV t1 = new TV();
+		t1.turnOn();
+		t1.setChannel(65);
+		System.out.println("Channel = "+t1.cha);
+		t1.channelUp();
+		System.out.println(t1.cha);
+
+	}
+
+}

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592545103 source:c:\users\asus\documents\evenoddquiz\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

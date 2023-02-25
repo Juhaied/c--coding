@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593672529 source:c:\users\asus\documents\recursionstring\main.cpp
+	<iostream>
+	<string>
+

@@ -1,0 +1,32 @@
+package assignment_spring2020;
+import java.util.Iterator;
+import java.util.Collections;
+import java.util.ArrayList;
+
+public class Inventory implements Iterable<StockableProduct> {
+	private ArrayList<StockableProduct> items;
+	
+	public Inventory() {
+		items=new ArrayList<>();
+	}
+	public void addItem(StockableProduct product) {
+		items.add(product);
+	}
+	public void removeProductItem(int productId) {
+		items.remove(productId);
+	}
+	public Product getItem(int productId) {
+		return items.get(productId);
+	}
+	@Override
+	public Iterator<StockableProduct> iterator(){
+		return items.iterator();
+	}
+	public void sortByPrice() {
+		Collections.sort(items,new PriceComparator());
+	}
+	public void sortByAvailableStoct() {
+		Collections.sort(items,new AvailavailStock());
+	}
+	
+}

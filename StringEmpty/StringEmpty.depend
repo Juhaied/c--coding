@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593610653 source:c:\users\asus\documents\stringempty\main.cpp
+	<iostream>
+	<string>
+
